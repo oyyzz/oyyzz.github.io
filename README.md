@@ -1,2 +1,3 @@
-# oyyzz.github.io
-Just blog.
+# Just Blog
+
+Nothing until now.
